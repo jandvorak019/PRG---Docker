@@ -29,3 +29,15 @@ Součástí vaší práce bude i foto dokumentace (DockerFile z VS Code, Build i
 # HTML
 ![index html](https://user-images.githubusercontent.com/92713632/227724191-8488282b-16ef-4e20-8879-c678c5a445a4.jpg)
 
+# Build 
+![build](https://user-images.githubusercontent.com/92713632/227736008-231b72f7-bbcb-4216-b9f3-3ea542654d22.png)
+
+# Container 
+![container](https://user-images.githubusercontent.com/92713632/227736013-6f44e806-f38e-4cd0-9cde-ed40def9043e.png)
+
+# Run 
+![run_image](https://user-images.githubusercontent.com/92713632/227736061-7a044ce0-20a9-4665-96af-952de48544e5.png)
+
+# Docker site
+![docker_site](https://user-images.githubusercontent.com/92713632/227736068-d96f6a6b-e308-477e-9144-f3e8b55b4315.png)
+
