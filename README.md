@@ -13,3 +13,19 @@ Vyzkoušejte si technologii Docker na vašem workstation:
 8. Odevzdávat jako odkaz na Váš github, kde by měl být váš sourcode a Dockerfile. Image, moduly tam samozřejmě být nemusí. To se zbuildí.
 
 Součástí vaší práce bude i foto dokumentace (DockerFile z VS Code, Build image, Run imige, Spuštěný kontejner, Užití aplikaci), která bude součástí README.md.
+
+
+
+
+
+
+
+
+
+# Docker
+![code](https://user-images.githubusercontent.com/92713632/227724224-db6a15fd-7903-4b7c-bf1e-58acb3736040.png)
+
+
+# HTML
+![index html](https://user-images.githubusercontent.com/92713632/227724191-8488282b-16ef-4e20-8879-c678c5a445a4.jpg)
+
